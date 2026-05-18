@@ -22,10 +22,10 @@
   },
   "dependencies": {
     "@medusajs/admin-sdk": "2.15.2",
-    "@medusajs/admin-shared": "2.14.2",
-    "@medusajs/caching": "2.14.2",
+    "@medusajs/admin-shared": "2.15.2",
+    "@medusajs/caching": "2.15.2",
     "@medusajs/cli": "2.15.2",
-    "@medusajs/dashboard": "2.14.2",
+    "@medusajs/dashboard": "2.15.2",
     "@medusajs/draft-order": "2.15.2",
     "@medusajs/framework": "2.15.2",
     "@medusajs/icons": "2.15.2",
