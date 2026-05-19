@@ -21,8 +21,8 @@ coverage
 **/out/
 
 # Production
-**/build
-**/dist
+# **/build
+# **/dist
 
 # Misc
 *.pem
